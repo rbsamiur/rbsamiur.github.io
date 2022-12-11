@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "734e3a1e66b24045d397d04a6b45c554",
+  "assets/AssetManifest.json": "75c3e7415402e2586c07dd4f4a30f11e",
 "assets/assets/facebook-login-button-01.png": "13112f18aa0ac1e31d3df4679d14f62c",
 "assets/assets/facebook_login.png": "db8f4655ff185f09aeb4cc93a2c2d16d",
 "assets/assets/google-login-button-01.png": "90ea62b046680d16cb06ee1bbe15d355",
@@ -16,6 +16,8 @@ const RESOURCES = {
 "assets/assets/menu/Business%2520Support.png": "505d8cb04b4d7147c0c86f86559dca2f",
 "assets/assets/menu/Community%2520Management.png": "29dc7343de8d2aaa31d990ae5f5e5cff",
 "assets/assets/menu/customer.png": "51d44c28659df5644aa154efc86d118d",
+"assets/assets/menu/Finance.png": "1813ab7c85af58745174b19a7d5ee9b0",
+"assets/assets/menu/Inventory.png": "d89ba136df9ec78fc112f151641b966b",
 "assets/assets/menu/invoice.png": "2f42b95c162610b57eb2b771ba4e61de",
 "assets/assets/menu/Manage%2520Business.png": "3fe2b8e89e94e592421a185ef87e4f76",
 "assets/assets/menu/Manage%2520Orders.png": "6020641aeee769a82113cc4dc1192d01",
@@ -23,6 +25,7 @@ const RESOURCES = {
 "assets/assets/menu/order.png": "0414482975f1d441b51db4bb06b4e588",
 "assets/assets/menu/POS.png": "59c468b63fb83980ee5104d8d8b3e714",
 "assets/assets/menu/product.png": "4e92f9f0e6663058b6a5abffcb44dd9c",
+"assets/assets/menu/Products.png": "1feb90e5aa48595642d9ac64ca1664b5",
 "assets/assets/menu/sales.png": "b72cdc31c125d880399f9899d3ccfd12",
 "assets/assets/menu/Source%2520Product.png": "7b64e7157e53d5f26c97c16a15229987",
 "assets/assets/menu/Update%2520Shop.png": "39c4a004c549c46ba4bfc86fd5047f38",
@@ -33,7 +36,7 @@ const RESOURCES = {
 "assets/assets/ui.jpg": "30878043eba0e7a940a0aa5199791aff",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "b84e25cf949e2181c7ad74b80e37d36b",
+"assets/NOTICES": "56b66d7028dd0ceb91d376ec560083b2",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "4e20cb87b0d43808c49449ffd69b1a74",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "1f7cb220b3f5309130bd6d9ad87e0fc0",
@@ -55,9 +58,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "b8884c311f3c49e8dd71262997470972",
 "icons/Icon-maskable-192.png": "433ac136717173f94839976468059e53",
 "icons/Icon-maskable-512.png": "b8884c311f3c49e8dd71262997470972",
-"index.html": "429123eecfabe05ad94d0dc6cf63ab36",
-"/": "429123eecfabe05ad94d0dc6cf63ab36",
-"main.dart.js": "fdacc034ac2624c6076ea09d3be02e5d",
+"index.html": "2b41a89b752b7909eae1cc1ed36b089c",
+"/": "2b41a89b752b7909eae1cc1ed36b089c",
+"main.dart.js": "f25f52d84d41825b2940821e86d8aa5e",
 "manifest.json": "bc08ef917a24a2d7a84df3e7e16ddea8",
 "version.json": "fa844dbfffed37e47d0fada545e565b2"
 };
